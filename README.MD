@@ -1,5 +1,3 @@
-#Authorization and Registration in PHP + PostgreSQL
-
 A web application for user registration and authentication. The project is developed using pure PHP and a PostgreSQL database, without the use of frameworks. It provides a simple way for users to register and log into the system.
 
 
